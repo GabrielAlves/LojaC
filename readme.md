@@ -1,6 +1,6 @@
 # LojaC
 
-Projeto antigo entregue como trabalho final da disciplina "Programação Estruturada". Ele gerencia os clientes e as compras de uma loja fictícia. Foi feito em conjunto com [Rayanne Ellen Lopes Ferreira](https://github.com/RayanneLps). Infelizmente, não tenho mais o estudo de caso que descrevia a loja e seus requisitos. Honestamente, eu fiz umas coisas nesse código que são de doer o coração, como as várias funções auxiliares, que acabaram mais atrapalhando do que ajudando. 
+Projeto antigo entregue como trabalho final da disciplina "Programação Estruturada". Ele gerencia os clientes e as compras de uma loja fictícia. Foi feito em conjunto com [Rayanne Ellen Lopes Ferreira](https://github.com/RayanneLps). Resultou em mais de 1000 linhas de código.
 
 Cada menu segue a mesma estrutura lógica com 3 funções básicas: uma função exibe as operações do menu, outra requisita uma operação para o usuário e a última processa a operação escolhida(invocando a função desejada). Essas 3 funções ficam alojadas em um loop para que o usuário retorne ao menu após fazer o que deseja. 
 
